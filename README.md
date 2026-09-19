@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a Linux veteran who built my own [Pop!_OS](https://system76.com/pop)-based agentic Linux distribution with agents. I work with a Dell Vostro 5890 (equipped with Ubuntu 26.04 + 11th Gen Intel(R) Core(TM) i7-11700F (16) @ 4.90 GHz CPU + 64 GB memory + 256 GB SSD + 2 TB HDD ), a Dell Vostro 3267 (equipped with Pop!_OS 24.04) , other x86 laptops, and Snapdragon-powered Android phones (8 Gen3 & 8 Gen4). More testing and hands-on practical work is needed to turn this promising platform into something people can easily install and use. This is a work in progress. I'm resolving compatibility issues one machine at a time: starting with QEMU, then physical x86-64 hardware, followed by physical aarch64 hardware.
+
+My next planned device is the Gorgon Halo (AMD Ryzen AI Max+ PRO 495 mini workstation, 16C/32T Zen5 up to 5.2GHz, Radeon 8065S 40CU RDNA3.5, XDNA2 NPU 55 TOPS, 192GB onboard LPDDR5X-8533 unified memory, 2TB SSD). I don’t use any Apple ecosystem products. My preference is Linux-based platforms, including Android.
+
+My technical background covers Linux OS internals, Android OS internals, embedded systems, streaming media, and virtualization. As a long-time Linux programmer and a newcomer to the AI field, I am the original author and maintainer of [FastRPC-based ggml-hexagon](https://github.com/ggml-hexagon). I have submitted contributions to [llama.cpp](https://github.com/ggml-org/llama.cpp) that have not been accepted upstream.
+
+I like .vimrc and I can’t lie --- I don’t lie in most situations, though sometimes I do(adult life is not easy, and sometimes you have to lie).
+
 <!--
 **zhouwg/zhouwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
