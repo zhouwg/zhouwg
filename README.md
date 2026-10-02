@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm a Linux veteran building an agentic-oriented Linux distribution ([kan-linux](https://github.com/kan-linux/kan)) with China's powerful AI agents ( I **first** experimented with AI-assisted coding in 04-2025 **on** a matrix compute function, and I have made heavy use of AI-assisted coding since 06-2026 ). More testing and hands-on practical work is needed to turn this promising/**linux-programmer-oriented** platform into something people can easily install and use. This is a **work in progress**. I'm resolving various tricky issues one machine at a time: starting with QEMU, then physical x86-64 hardware, followed by aarch64 physical hardware.
+
+My technical background covers Linux OS internals, Android OS internals, embedded systems, streaming media, and virtualization. As a long-time Linux programmer and a **newcomer** to the AI field, I am the original author and maintainer of [FastRPC/mempool-based ggml-hexagon](https://github.com/kan-linux/ggml-hexagon/discussions/84). I have submitted related contributions to [llama.cpp](https://github.com/ggml-org/llama.cpp) that have not been accepted upstream.
+
+I **like .vimrc** and I **can’t lie** --- I don’t lie in most situations, though sometimes I do(**adult life is not easy**, and sometimes you have to lie).
 
 <!--
 **zhouwg/zhouwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
